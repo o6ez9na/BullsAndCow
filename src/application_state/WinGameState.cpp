@@ -1,7 +1,3 @@
-//
-// Created by leoni on 27.05.2023.
-//
-
 #include "WinGameState.h"
 #include "../application/Application.h"
 

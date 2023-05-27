@@ -1,7 +1,3 @@
-//
-// Created by leoni on 27.05.2023.
-//
-
 #ifndef BULLSANDCOWS_SRC_UI_COMPONENTS_UI_GAME_GAMEUI_H_
 #define BULLSANDCOWS_SRC_UI_COMPONENTS_UI_GAME_GAMEUI_H_
 #include <iostream>

@@ -1,7 +1,3 @@
-//
-// Created by leoni on 27.05.2023.
-//
-
 #include "GameUi.h"
 void GameUi::PrintFrame(const std::string &message) {
   std::string sub_name = "Welcome to Bulls and Cows Game!";
