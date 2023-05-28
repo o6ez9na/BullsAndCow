@@ -5,7 +5,7 @@ class Application{
 -state: IApplicationState
 -Application()
 -~Application()
-+Instance(): Application
++{static}Instance(): Application
 +GetState(): IApplicationState
 +SetState(state: IApplicationState)
 +Run()
